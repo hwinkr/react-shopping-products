@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "id": 39,
+      "name": "태블릿",
+      "price": 400000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 38,
+      "name": "스마트워치",
+      "price": 350000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1686069040492-1ac799fd3b01?q=80&w=3300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 148,
+      "name": "스마트 워치 S50",
+      "price": 350000,
+      "imageUrl": "https://images.unsplash.com/photo-1695073621086-aa692bc32a3d?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 163,
+      "name": "스탠드 믹서",
+      "price": 300000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1682092150898-2b7dfefd2abe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "kitchen"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "pageNumber": 5,
+    "pageSize": 4,
+    "offset": 20,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 6,
+  "totalElements": 24,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "first": false,
+  "number": 5,
+  "numberOfElements": 4,
+  "size": 4,
+  "empty": false
+}

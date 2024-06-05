@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "id": 133,
+      "name": "사회과학책",
+      "price": 13000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1667251760504-096946b820af?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    },
+    {
+      "id": 123,
+      "name": "과학책",
+      "price": 13000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1667251760504-096946b820af?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    },
+    {
+      "id": 124,
+      "name": "경제서적",
+      "price": 14000,
+      "imageUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?q=80&w=3552&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    },
+    {
+      "id": 116,
+      "name": "요리책",
+      "price": 15000,
+      "imageUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?q=80&w=3552&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "pageNumber": 5,
+    "pageSize": 4,
+    "offset": 20,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 6,
+  "totalElements": 24,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "first": false,
+  "number": 5,
+  "numberOfElements": 4,
+  "size": 4,
+  "empty": false
+}

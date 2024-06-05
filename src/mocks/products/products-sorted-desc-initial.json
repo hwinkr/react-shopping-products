@@ -1,0 +1,169 @@
+{
+  "content": [
+    {
+      "id": 151,
+      "name": "4K 텔레비전 UHD",
+      "price": 2500000,
+      "imageUrl": "https://images.unsplash.com/photo-1593081891731-fda0877988da?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 152,
+      "name": "홈 시어터 시스템",
+      "price": 1800000,
+      "imageUrl": "https://images.unsplash.com/photo-1623998021450-85c29c644e0d?q=80&w=3357&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 146,
+      "name": "노트북 Pro 15",
+      "price": 1500000,
+      "imageUrl": "https://images.unsplash.com/photo-1593081891731-fda0877988da?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 36,
+      "name": "노트북",
+      "price": 1500000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 150,
+      "name": "디지털 카메라 DX4",
+      "price": 1200000,
+      "imageUrl": "https://images.unsplash.com/3/www.madebyvadim.com.jpg?q=80&w=3282&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 35,
+      "name": "스마트폰",
+      "price": 950000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 159,
+      "name": "식기세척기",
+      "price": 900000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1664372599576-ea88152cda2b?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "kitchen"
+    },
+    {
+      "id": 144,
+      "name": "스마트폰 X100",
+      "price": 900000,
+      "imageUrl": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=2735&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 149,
+      "name": "게이밍 모니터 Ultra",
+      "price": 800000,
+      "imageUrl": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=2735&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 52,
+      "name": "드론",
+      "price": 800000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 106,
+      "name": "트레드밀",
+      "price": 700000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1670505060574-b08479270d1b?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "fitness"
+    },
+    {
+      "id": 40,
+      "name": "카메라",
+      "price": 600000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 88,
+      "name": "러닝머신",
+      "price": 600000,
+      "imageUrl": "https://images.unsplash.com/photo-1656955178167-3888ac44843c?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "fitness"
+    },
+    {
+      "id": 80,
+      "name": "냉장고",
+      "price": 500000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1664372599576-ea88152cda2b?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "kitchen"
+    },
+    {
+      "id": 175,
+      "name": "스마트 러닝머신",
+      "price": 500000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1671028547976-4b1e3300a350?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "fitness"
+    },
+    {
+      "id": 41,
+      "name": "게임콘솔",
+      "price": 500000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 91,
+      "name": "사이클머신",
+      "price": 500000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1670505060574-b08479270d1b?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "fitness"
+    },
+    {
+      "id": 180,
+      "name": "체스트 프레스 머신",
+      "price": 450000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1671028547976-4b1e3300a350?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "fitness"
+    },
+    {
+      "id": 50,
+      "name": "VR헤드셋",
+      "price": 400000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 39,
+      "name": "태블릿",
+      "price": 400000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "pageNumber": 0,
+    "pageSize": 20,
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": false,
+  "totalPages": 2,
+  "totalElements": 24,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "first": true,
+  "number": 0,
+  "numberOfElements": 20,
+  "size": 20,
+  "empty": false
+}

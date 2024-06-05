@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "id": 128,
+      "name": "문학소설",
+      "price": 9000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=3544&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    },
+    {
+      "id": 129,
+      "name": "고전소설",
+      "price": 8000,
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=2730&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    },
+    {
+      "id": 130,
+      "name": "과학에세이",
+      "price": 7000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1667251760504-096946b820af?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    },
+    {
+      "id": 131,
+      "name": "역사논문",
+      "price": 12000,
+      "imageUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?q=80&w=3552&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "books"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "pageNumber": 5,
+    "pageSize": 4,
+    "offset": 20,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 7,
+  "totalElements": 26,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "first": false,
+  "number": 5,
+  "numberOfElements": 4,
+  "size": 4,
+  "empty": false
+}

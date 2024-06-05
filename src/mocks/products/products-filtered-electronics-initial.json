@@ -1,0 +1,169 @@
+{
+  "content": [
+    {
+      "id": 35,
+      "name": "스마트폰",
+      "price": 950000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 36,
+      "name": "노트북",
+      "price": 1500000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 37,
+      "name": "헤드폰",
+      "price": 200000,
+      "imageUrl": "https://images.unsplash.com/photo-1638740396066-e5186f6dd452?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 38,
+      "name": "스마트워치",
+      "price": 350000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1686069040492-1ac799fd3b01?q=80&w=3300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 39,
+      "name": "태블릿",
+      "price": 400000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 40,
+      "name": "카메라",
+      "price": 600000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 41,
+      "name": "게임콘솔",
+      "price": 500000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 42,
+      "name": "블루투스스피커",
+      "price": 150000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1686069040492-1ac799fd3b01?q=80&w=3300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 43,
+      "name": "모니터",
+      "price": 300000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 44,
+      "name": "외장하드",
+      "price": 100000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 45,
+      "name": "전자책리더기",
+      "price": 200000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 46,
+      "name": "휴대용충전기",
+      "price": 50000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 47,
+      "name": "무선마우스",
+      "price": 50000,
+      "imageUrl": "https://images.unsplash.com/photo-1638740396066-e5186f6dd452?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 48,
+      "name": "무선키보드",
+      "price": 60000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1686069040492-1ac799fd3b01?q=80&w=3300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 49,
+      "name": "웹캠",
+      "price": 70000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 50,
+      "name": "VR헤드셋",
+      "price": 400000,
+      "imageUrl": "https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 51,
+      "name": "스마트전구",
+      "price": 50000,
+      "imageUrl": "https://images.unsplash.com/photo-1638740396066-e5186f6dd452?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 52,
+      "name": "드론",
+      "price": 800000,
+      "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 53,
+      "name": "액션카메라",
+      "price": 300000,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1686069040492-1ac799fd3b01?q=80&w=3300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 54,
+      "name": "피트니스트래커",
+      "price": 200000,
+      "imageUrl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "pageNumber": 0,
+    "pageSize": 20,
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": false,
+  "totalPages": 2,
+  "totalElements": 24,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "first": true,
+  "number": 0,
+  "numberOfElements": 20,
+  "size": 20,
+  "empty": false
+}

@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "id": 144,
+      "name": "스마트폰 X100",
+      "price": 900000,
+      "imageUrl": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=2735&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 145,
+      "name": "블루투스 스피커 Z300",
+      "price": 150000,
+      "imageUrl": "https://images.unsplash.com/3/www.madebyvadim.com.jpg?q=80&w=3282&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 146,
+      "name": "노트북 Pro 15",
+      "price": 1500000,
+      "imageUrl": "https://images.unsplash.com/photo-1593081891731-fda0877988da?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": 147,
+      "name": "무선 이어폰 Q20",
+      "price": 200000,
+      "imageUrl": "https://images.unsplash.com/photo-1623998021450-85c29c644e0d?q=80&w=3357&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "pageNumber": 5,
+    "pageSize": 4,
+    "offset": 20,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 6,
+  "totalElements": 24,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "first": false,
+  "number": 5,
+  "numberOfElements": 4,
+  "size": 4,
+  "empty": false
+}
